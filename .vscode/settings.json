@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "corecrt_math.h": "c",
+        "stdbool.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    }
+}
